@@ -6,7 +6,7 @@
 void main()
 {
     // Declarations
-	int i;
+    int i;
     double A[5] = {
         9.0,
         2.9,
